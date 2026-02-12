@@ -12,7 +12,15 @@
       "changes": [
         {
           "type": "feat",
-          "message": "Added a clear all filters button to the Dashboard filters."
+          "message": "Removed Reports and User Management for employee roles."
+        },
+        {
+          "type": "feat",
+          "message": "Created Dynamic rows for the Active trips scereen and added a new column for the Latest Remark."
+        },
+        {
+          "type": "feat",
+          "message": "Made the View Trip page more consise and removed the extra Vehicle and Driver details block"
         }
       ]
     },
