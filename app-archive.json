@@ -1,0 +1,20 @@
+{
+  "appName": "CharterTrack",
+  "description": "A new Flutter project.",
+  "items": [
+    {
+      "version": "2.1.0+1",
+      "shortVersion": 200,
+      "date": "2026-02-10",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CharTrack/main/2.1.0+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Update hosted on GitHub Pages!"
+        }
+      ]
+    }
+  ]
+}
