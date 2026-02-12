@@ -3,6 +3,20 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.2.0+1",
+      "shortVersion": 220,
+      "date": "2026-02-12",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CharterTrack/main/2.2.0+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Added a clear all filters button to the Dashboard filters."
+        }
+      ]
+    },
+    {
       "version": "2.1.1+1",
       "shortVersion": 211,
       "date": "2026-02-12",
