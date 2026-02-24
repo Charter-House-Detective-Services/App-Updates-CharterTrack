@@ -3,6 +3,24 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.2.2+1",
+      "shortVersion": 222,
+      "date": "2026-02-12",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CharterTrack/main/2.2.2+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "chore",
+          "message": "Maintains transporter filter selection on the Dashboard after refreshing the page."
+        },
+        {
+          "type": "chore",
+          "message": "Maintains page state after refreshing the Dashboard, including applied filters and scroll position."
+        }
+      ]
+    },
+    {
       "version": "2.2.1+1",
       "shortVersion": 221,
       "date": "2026-02-12",
