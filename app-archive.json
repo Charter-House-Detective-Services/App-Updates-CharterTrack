@@ -3,6 +3,24 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.3.0+1",
+      "shortVersion": 230,
+      "date": "2026-02-128",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CharterTrack/main/2.3.0+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Added routing to the maps with Dual polyline to see the route the vehicle has taken."
+        },
+        {
+          "type": "feat",
+          "message": "The red line indicates the route the vehicle should take, while the blue line shows the actual route taken by the vehicle, allowing users to compare planned and actual routes effectively."
+        }
+      ]
+    },
+    {
       "version": "2.2.2+1",
       "shortVersion": 222,
       "date": "2026-02-12",
