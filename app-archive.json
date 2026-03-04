@@ -3,6 +3,28 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.3.1+1",
+      "shortVersion": 231,
+      "date": "2026-03-04",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CharterTrack/main/2.3.1+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Added Reach destination option in the Call form."
+        },
+        {
+          "type": "feat",
+          "message": "Added Route Distance feature."
+        },
+        {
+          "type": "feat",
+          "message": "Split the Stopped and Night Halt options in Statistics."
+        }
+      ]
+    },
+    {
       "version": "2.3.0+1",
       "shortVersion": 230,
       "date": "2026-02-128",
