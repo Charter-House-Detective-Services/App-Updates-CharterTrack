@@ -3,6 +3,24 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.3.4+1",
+      "shortVersion": 234,
+      "date": "2026-03-30",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CharterTrack/main/2.3.4+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Changed The role wise permissions for PGI and GRN upload."
+        },
+        {
+          "type": "feat",
+          "message": "Fixed some issues in User Performance Report and added a new column for the total number of trips in the selected date range."
+        }
+      ]
+    },
+    {
       "version": "2.3.3+1",
       "shortVersion": 233,
       "date": "2026-03-05",
