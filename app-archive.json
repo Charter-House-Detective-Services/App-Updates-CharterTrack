@@ -3,6 +3,24 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.3.6+1",
+      "shortVersion": 236,
+      "date": "2026-03-30",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CharterTrack/main/2.3.6+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "fix",
+          "message": "Changed The role wise permissions for PGI and GRN and trip closing."
+        },
+        {
+          "type": "fix",
+          "message": "Fixed in-transit filter issue. Now in-transit shows the correct trips."
+        }
+      ]
+    },
+    {
       "version": "2.3.4+1",
       "shortVersion": 234,
       "date": "2026-03-30",
