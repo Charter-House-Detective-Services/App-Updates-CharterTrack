@@ -3,6 +3,20 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.3.7+1",
+      "shortVersion": 237,
+      "date": "2026-03-30",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CharterTrack/main/2.3.7+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "fix",
+          "message": "Added back all convoy update together."
+        }
+      ]
+    },
+    {
       "version": "2.3.6+1",
       "shortVersion": 236,
       "date": "2026-03-30",
