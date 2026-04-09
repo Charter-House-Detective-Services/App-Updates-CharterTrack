@@ -3,6 +3,24 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.3.9+1",
+      "shortVersion": 239,
+      "date": "2026-04-09",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CharterTrack/main/2.3.9+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "fix",
+          "message": "Reduced vertical padding on the Dashboard to remove the scroll."
+        },
+        {
+          "type": "fix",
+          "message": "Removed 'GRN Recieved' statistic from Closed trips page."
+        }
+      ]
+    },
+    {
       "version": "2.3.8+1",
       "shortVersion": 238,
       "date": "2026-04-09",
