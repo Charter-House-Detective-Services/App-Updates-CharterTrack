@@ -3,6 +3,28 @@
   "description": "A new Flutter project.",
   "items": [
     {
+      "version": "2.4.0+1",
+      "shortVersion": 240,
+      "date": "2026-04-10",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/Charter-House-Detective-Services/App-Updates-CharterTrack/main/2.4.0+1-windows",
+      "platform": "windows",
+      "changes": [
+        {
+          "type": "fix",
+          "message": "Fixed wrong reporting of variables when filters applied on reports page."
+        },
+        {
+          "type": "fix",
+          "message": "Fixed 'Issues and Breakdowns' reports not working on the custom reports page."
+        },
+        {
+          "type": "feat",
+          "message": "Added Escalations report to the custom reports page."
+        }
+      ]
+    },
+    {
       "version": "2.3.9+1",
       "shortVersion": 239,
       "date": "2026-04-09",
